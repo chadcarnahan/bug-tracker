@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "bug-track-app",
+    "bugtracker": "bug-track-app"
+  },
+  "targets": {}
+}
